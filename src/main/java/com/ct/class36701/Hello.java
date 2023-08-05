@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("你好啊"+name);
         System.out.println("你好啊3"+name);
         System.out.println("你好啊-hot-fix"+name);
+        System.out.println("你好啊-hot-fix2"+name);
     }
 }
